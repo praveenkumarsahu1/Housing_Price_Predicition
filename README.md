@@ -86,10 +86,9 @@ It was developed as my **first machine learning project**, focusing on understan
 ## 👨‍💻 Author
 
 **Praveen Kumar Sahu**
+
 📧 [Gmail](praveenkumarsahu17@gmail.com)
+
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/avgpraveen)
+
 💻 [GitHub Profile](https://github.com/praveenkumarsahu1)
-
----
-
-Would you like me to include a **Colab “Open in Colab” badge** at the top (so others can directly open your notebook from GitHub)?
